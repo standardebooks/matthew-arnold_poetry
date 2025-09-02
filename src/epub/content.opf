@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/matthew-arnold/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-02T20:44:50Z</dc:date>
+		<meta property="dcterms:modified">2025-09-02T20:44:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,12 +34,12 @@
 		<meta property="term" refines="#subject-1">sh85043937</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">A collection of occasional and dramatic poems by a Victorian-era poet, educator, and critic.</dc:description>
+		<dc:description id="description">A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; was a cultural critic and inspector of schools in Victorian-era Britain, who was famous for his critique of British society in &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
-			&lt;p&gt;However, he was also well-known for his poetry, which was quite eclectic. Some commemorate lost loved ones, such as “Thyrsis” (for his friend, the poet Arthur Hugh Clough) and “Kaiser Dead” (for a deceased dog). Others speak to ubiquitous human struggles, such as old age (in “Growing Old”) and the struggles against the natural world (“To an Independent Preacher”). Reflecting his concerns to “make the best that has been thought and known in the world current everywhere,” he also wrote poems that re-told stories (with his own flavor) from various mythologies, such as Norse (“Balder Dead”), Iranian (“Sohrab and Rostam”), and Greek (“The Strayed Reveller,” “Merope”). He also wrote other poems that told stories closer to home, such as “The Scholar Gipsy,” which was based on a 17th century story from Oxford about a poor Oxford student who leaves the school to join a band of gypsies.&lt;/p&gt;
-			&lt;p&gt;Ever the observer of culture, Arnold also wrote poetry speaking to issues of his own day, the most famous of which was “Dover Beach,” which compared the secularization of England with the nighttime ocean withdrawing from shore. This poem is sometimes held up as an early example of literary modernism, and also inspired the composer Samuel Barber to set the poem to music.&lt;/p&gt;
-			&lt;p&gt;Of the great Victorian-era poets, Arnold is highly regarded. As the English literary critic E. K. Chambers put it: “It is no part of my object to attempt a comparison between the best work of Matthew Arnold and that of his six greatest contemporaries. Personal taste and emotional sympathy inevitably play too great a part in any such estimate. But one may fairly maintain that the &lt;em&gt;proportion&lt;/em&gt; of work which endures is greater in the case of Matthew Arnold than in that of any one of them.”&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; was a cultural critic and inspector of schools in Victorian Britain. In his day he was famous for his critique of British society in &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;, but he was also well-known for his eclectic poetry.&lt;/p&gt;
+			&lt;p&gt;Some of his poems commemorate lost loved ones, like “Thyrsis” (for his friend, the poet Arthur Hugh Clough) and “Kaiser Dead” (for a deceased dog). Others speak to ubiquitous human struggles, such as old age (in “Growing Old”) and the struggles against the natural world (“To an Independent Preacher”). Reflecting his concerns to “make the best that has been thought and known in the world current everywhere,” he also wrote poems that retell stories from world mythology like the Norse (“Balder Dead”), Iranian (“Sohrab and Rostam”), and Greek (“The Strayed Reveller,” “Merope”). He also wrote poems that tell stories closer to home, like “The Scholar Gipsy,” which is based on a 17th century story about a poor Oxford student who leaves the school to join a band of gypsies.&lt;/p&gt;
+			&lt;p&gt;Ever the observer of culture, Arnold also wrote poetry speaking to issues of his own day, the most famous of which is “Dover Beach,” which compares the secularization of England with the nighttime ocean withdrawing from shore. This poem is sometimes held up as an early example of literary modernism, and also inspired the composer Samuel Barber to set the poem to music.&lt;/p&gt;
+			&lt;p&gt;Arnold is highly regarded among the pantheon of Victorian poets. As the English literary critic E. K. Chambers puts it: “It is no part of my object to attempt a comparison between the best work of Matthew Arnold and that of his six greatest contemporaries. Personal taste and emotional sympathy inevitably play too great a part in any such estimate. But one may fairly maintain that the &lt;em&gt;proportion&lt;/em&gt; of work which endures is greater in the case of Matthew Arnold than in that of any one of them.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27739</dc:source>
@@ -49,9 +49,9 @@
 		<dc:source>https://archive.org/details/poeticalworksofm00arn/</dc:source>
 		<!--Rome-Sickness (own transcription)-->
 		<dc:source>https://archive.org/details/inmemoriamawrea00marsgoog/</dc:source>
-		<meta property="se:production-notes">The Project Gutenberg transcription was based off an 1897 edition of Arnold's poems. Where possible, the text of the poems have been updated to accord with the latest edition, represented by the 1922 edition page scans. Since the 1922 edition turned American-style quotation marks into British-style quotations, the 1897 quotation marks were retained. All endnotes from the 1897 edition, and most endnotes from the 1922 edition, have been included. The producer also transcribed 10 of the poems.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The Project Gutenberg transcription was based off an 1897 edition of Arnold's poems. Where possible, the text of the poems have been updated to accord with the latest edition, represented by the 1922 edition page scans. Since the 1922 edition turned American-style quotation marks into British-style quotations, the 1897 quotation marks were retained. All endnotes from the 1897 edition, and most endnotes from the 1922 edition, have been included.</meta>
+		<meta property="se:word-count">103669</meta>
+		<meta property="se:reading-ease.flesch">74.93</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/matthew-arnold_poetry</meta>
 		<dc:creator id="author">Matthew Arnold</dc:creator>
 		<meta property="file-as" refines="#author">Arnold, Matthew</meta>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
