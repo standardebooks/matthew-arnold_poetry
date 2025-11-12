@@ -57,8 +57,8 @@
 		<meta property="file-as" refines="#author">Arnold, Matthew</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Matthew_Arnold</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79045174</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="annotator">Humphrey Sumner Milford</dc:contributor>
 		<meta property="file-as" refines="#annotator">Milford, Humphrey Sumner</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#annotator">https://en.wikipedia.org/wiki/Humphrey_Sumner_Milford</meta>
