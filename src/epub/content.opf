@@ -50,7 +50,7 @@
 		<!--Rome-Sickness (own transcription)-->
 		<dc:source>https://archive.org/details/inmemoriamawrea00marsgoog/</dc:source>
 		<meta property="se:production-notes">The Project Gutenberg transcription was based off an 1897 edition of Arnold's poems. Where possible, the text of the poems have been updated to accord with the latest edition, represented by the 1922 edition page scans. Since the 1922 edition turned American-style quotation marks into British-style quotations, the 1897 quotation marks were retained. All endnotes from the 1897 edition, and most endnotes from the 1922 edition, have been included.</meta>
-		<meta property="se:word-count">103669</meta>
+		<meta property="se:word-count">100242</meta>
 		<meta property="se:reading-ease.flesch">74.93</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/matthew-arnold_poetry</meta>
 		<dc:creator id="author">Matthew Arnold</dc:creator>
