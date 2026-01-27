@@ -44,11 +44,11 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27739</dc:source>
 		<!--All poems, excepting what is listed in other sources.  Alaric at Rome, Cromwell, The Hayswater Boat, Sonnet to the Hungarian Nation, Courage, Destiny, Thekla's Answer, The Nameless Epitaph I (own transcription). Some footnotes (most transcribed by producer)-->
-		<dc:source>https://archive.org/details/poemsofmatthewar00arnouoft/</dc:source>
+		<dc:source>https://archive.org/details/poemsofmatthewar00arnouoft</dc:source>
 		<!--New Rome, S.S. Lusitania (own transcription), Geist’s Grave, Westminster Abbey, Poor Matthias, Kaiser Dead, some footnotes-->
-		<dc:source>https://archive.org/details/poeticalworksofm00arn/</dc:source>
+		<dc:source>https://archive.org/details/poeticalworksofm00arn</dc:source>
 		<!--Rome-Sickness (own transcription)-->
-		<dc:source>https://archive.org/details/inmemoriamawrea00marsgoog/</dc:source>
+		<dc:source>https://archive.org/details/inmemoriamawrea00marsgoog</dc:source>
 		<meta property="se:production-notes">The Project Gutenberg transcription was based off an 1897 edition of Arnold's poems. Where possible, the text of the poems have been updated to accord with the latest edition, represented by the 1922 edition page scans. Since the 1922 edition turned American-style quotation marks into British-style quotations, the 1897 quotation marks were retained. All endnotes from the 1897 edition, and most endnotes from the 1922 edition, have been included.</meta>
 		<meta property="se:word-count">100242</meta>
 		<meta property="se:reading-ease.flesch">74.93</meta>
