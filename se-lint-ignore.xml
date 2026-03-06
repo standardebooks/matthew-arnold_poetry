@@ -2,7 +2,8 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
-			<reason>The subtitle of "To George Cruikshank, Esq." is properly titlecased. <i>The Bottle</i> is the title of a painting, and the <i>The</i> should be capitalized.</reason>
+			<line>2863</line>
+			<reason>The subtitle of "To George Cruikshank, Esq." is properly titlecased. &lt;i&gt;The Bottle&lt;/i&gt; is the title of a painting, and the &lt;i&gt;The&lt;/i&gt; should be capitalized.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
