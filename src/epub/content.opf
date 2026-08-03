@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/matthew-arnold/poetry</dc:identifier>
 		<dc:date>2025-09-02T20:44:50Z</dc:date>
@@ -35,13 +35,13 @@
 		<meta property="term" refines="#subject-1">sh85043937</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; was a cultural critic and inspector of schools in Victorian Britain. In his day he was famous for his critique of British society in &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;, but he was also well-known for his eclectic poetry.&lt;/p&gt;
 			&lt;p&gt;Some of his poems commemorate lost loved ones, like “Thyrsis” (for his friend, the poet Arthur Hugh Clough) and “Kaiser Dead” (for a deceased dog). Others speak to ubiquitous human struggles, such as old age (in “Growing Old”) and the struggles against the natural world (“To an Independent Preacher”). Reflecting his concerns to “make the best that has been thought and known in the world current everywhere,” he also wrote poems that retell stories from world mythology like the Norse (“Balder Dead”), Iranian (“Sohrab and Rostam”), and Greek (“The Strayed Reveller,” “Merope”). He also wrote poems that tell stories closer to home, like “The Scholar Gipsy,” which is based on a 17th century story about a poor Oxford student who leaves the university to join a band of gypsies.&lt;/p&gt;
 			&lt;p&gt;Ever the observer of culture, Arnold also wrote poetry speaking to issues of his own day, the most famous of which is “Dover Beach,” which compares the secularization of England with the nighttime ocean withdrawing from shore. This poem is sometimes held up as an early example of literary modernism, and also inspired the composer Samuel Barber to set the poem to music.&lt;/p&gt;
 			&lt;p&gt;Arnold is highly regarded among the pantheon of Victorian poets. As the English literary critic E. K. Chambers puts it: “It is no part of my object to attempt a comparison between the best work of Matthew Arnold and that of his six greatest contemporaries. Personal taste and emotional sympathy inevitably play too great a part in any such estimate. But one may fairly maintain that the &lt;em&gt;proportion&lt;/em&gt; of work which endures is greater in the case of Matthew Arnold than in that of any one of them.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27739</dc:source>
 		<!--All poems, excepting what is listed in other sources.  Alaric at Rome, Cromwell, The Hayswater Boat, Sonnet to the Hungarian Nation, Courage, Destiny, Thekla's Answer, The Nameless Epitaph I (own transcription). Some footnotes (most transcribed by producer)-->
