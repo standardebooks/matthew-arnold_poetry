@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh85043937</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.</dc:abstract>
+		<meta property="schema:abstract">A collection of occasional and dramatic poems by a Victorian poet, educator, and critic.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/matthew-arnold"&gt;Matthew Arnold&lt;/a&gt; was a cultural critic and inspector of schools in Victorian Britain. In his day he was famous for his critique of British society in &lt;a href="https://standardebooks.org/ebooks/matthew-arnold/culture-and-anarchy"&gt;&lt;i&gt;Culture and Anarchy&lt;/i&gt;&lt;/a&gt;, but he was also well-known for his eclectic poetry.&lt;/p&gt;
 			&lt;p&gt;Some of his poems commemorate lost loved ones, like “Thyrsis” (for his friend, the poet Arthur Hugh Clough) and “Kaiser Dead” (for a deceased dog). Others speak to ubiquitous human struggles, such as old age (in “Growing Old”) and the struggles against the natural world (“To an Independent Preacher”). Reflecting his concerns to “make the best that has been thought and known in the world current everywhere,” he also wrote poems that retell stories from world mythology like the Norse (“Balder Dead”), Iranian (“Sohrab and Rostam”), and Greek (“The Strayed Reveller,” “Merope”). He also wrote poems that tell stories closer to home, like “The Scholar Gipsy,” which is based on a 17th century story about a poor Oxford student who leaves the university to join a band of gypsies.&lt;/p&gt;
